@@ -1,0 +1,9 @@
+Current git commit:
+c6dda2d992724243eabc886bc7118808dc67d891
+
+Current ouput md5 hashes:
+MD5 (output/NationalNames.csv) = ea4786e4f7843c53e5de8cfd0ea9879d
+MD5 (output/StateNames.csv) = 46d7e87b679bd97f594b6878edfa5705
+MD5 (output/database.sqlite) = 4ade7c04b352a570782418970e8bda41
+MD5 (output/NationalReadMe.pdf) = 8c0f02e34055160af46669777a1ba14d
+MD5 (output/StateReadMe.pdf) = ed4fa3a742e0e0d6284955324f40f6a3
