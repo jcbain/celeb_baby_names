@@ -17,25 +17,34 @@ avg$norm_appr<-ave( avg$Approving, avg$President, FUN = normalize )
 avg$norm_fname<-ave( avg$fname_rate, avg$President, FUN = normalize )
 avg$norm_lname<-ave( avg$lname_rate, avg$President, FUN = normalize )
 
-pre1981<- subset(avg, year < 1981)
-post1980<-subset(avg,year>1980)
+## subsets for better graphs ##
+pre1981<- subset(avg, year < 1981) # Roosevelt to Carter
+post1980<-subset(avg,year>1980) # Reagan to Obama
+
 ##############
 ## ANALYSIS ##
 ##############
 lm(norm_fname~norm_appr+President, data=avg)
 
 
-# sample plot
-# ggplot(avg, aes(x = year, y= norm_appr, colour = President)) +  geom_line() #+ facet_grid(.~f_name)
-# ggplot(avg, aes(x = year, y= norm_fname, colour = President)) +  geom_line()
+###########
+## PLOTS ##
+###########
 
+## appoval vs. first name
 ggplot(pre1981,aes(x=norm_appr, y =norm_fname))+geom_line(aes(colour=President)) +
   geom_point(aes(colour = President)) + facet_wrap(~President)
 
-ggplot(prost1980,aes(x=norm_appr, y =norm_fname))+geom_line(aes(colour=President)) +
+ggplot(post1980,aes(x=norm_appr, y =norm_fname))+geom_line(aes(colour=President)) +
   geom_point(aes(colour = President)) + facet_wrap(~President)
 
-ggplot(avg, aes(year)) + 
+## approval and first name
+ggplot(pre1981, aes(year)) + 
   geom_line(aes(y = norm_appr, colour = President),alpha =.5) + 
-  geom_line(aes(y = norm_fname, colour = President),linetype = 2) +
-  facet_wrap(~President)
+  geom_line(aes(y = norm_fname, colour = President),linetype = 2)# +
+ # facet_wrap(~President)
+
+ggplot(post1980, aes(year)) + 
+  geom_line(aes(y = norm_appr, colour = President),alpha =.5) + 
+  geom_line(aes(y = norm_fname, colour = President),linetype = 2)# +
+# facet_wrap(~President)
