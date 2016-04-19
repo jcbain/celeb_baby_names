@@ -12,3 +12,7 @@ avg$norm_fname<-ave( avg$fname_rate, avg$President, FUN = normalize )
 # sample plot
 ggplot(avg, aes(x = year, y= norm_appr, colour = President)) +  geom_line() #+ facet_grid(.~f_name)
 ggplot(avg, aes(x = year, y= norm_fname, colour = President)) +  geom_line()
+
+ggplot(avg, aes(year)) + 
+  geom_line(aes(y = norm_appr, colour = President)) + 
+  geom_line(aes(y = norm_fname, colour = President),linetype = 2)+  facet_wrap(~f_name)
