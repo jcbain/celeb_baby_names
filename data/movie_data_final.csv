@@ -1,0 +1,998 @@
+Rank,Title,Year,Cast_Name,Character_Name
+1,Gone With the Wind,1939,Thomas,Gerald
+1,Gone With the Wind,1939,Barbara,Ellen
+1,Gone With the Wind,1939,Vivien,Scarlett
+1,Gone With the Wind,1939,Evelyn,Suellen
+1,Gone With the Wind,1939,Ann,Carreen
+1,Gone With the Wind,1939,George,Brent
+1,Gone With the Wind,1939,Fred,Stuart
+1,Gone With the Wind,1939,Hattie,Mammy
+1,Gone With the Wind,1939,Oscar,Pork
+1,Gone With the Wind,1939,Butterfly,Prissy
+2,Star Wars: Episode IV - A New Hope,1977,Mark,Luke
+2,Star Wars: Episode IV - A New Hope,1977,Harrison,Han
+2,Star Wars: Episode IV - A New Hope,1977,Carrie,Princess
+2,Star Wars: Episode IV - A New Hope,1977,Peter,Grand
+2,Star Wars: Episode IV - A New Hope,1977,Alec,Ben
+2,Star Wars: Episode IV - A New Hope,1977,Anthony,C-3PO
+2,Star Wars: Episode IV - A New Hope,1977,Kenny,R2-D2
+2,Star Wars: Episode IV - A New Hope,1977,Peter,Chewbacca
+2,Star Wars: Episode IV - A New Hope,1977,David,Darth
+2,Star Wars: Episode IV - A New Hope,1977,Phil,Uncle
+3,The Sound of Music,1965,Julie,Maria
+3,The Sound of Music,1965,Christopher,Captain
+3,The Sound of Music,1965,Eleanor,The
+3,The Sound of Music,1965,Richard,Max
+3,The Sound of Music,1965,Peggy,Mother
+3,The Sound of Music,1965,Charmian,Liesl
+3,The Sound of Music,1965,Heather,Louisa
+3,The Sound of Music,1965,Nicholas,Friedrich
+3,The Sound of Music,1965,Duane,Kurt
+3,The Sound of Music,1965,Angela,Brigitta
+4,E. T. The Extra-Terrestrial,1982,Dee,Mary
+4,E. T. The Extra-Terrestrial,1982,Henry,Elliott
+4,E. T. The Extra-Terrestrial,1982,Peter,Keys
+4,E. T. The Extra-Terrestrial,1982,Robert,Michael
+4,E. T. The Extra-Terrestrial,1982,Drew,Gertie
+4,E. T. The Extra-Terrestrial,1982,K.C.,Greg
+4,E. T. The Extra-Terrestrial,1982,Sean,Steve
+4,E. T. The Extra-Terrestrial,1982,C.,Tyler
+4,E. T. The Extra-Terrestrial,1982,Erika,Pretty
+4,E. T. The Extra-Terrestrial,1982,David,Schoolboy
+5,Titanic,1997,Leonardo,Jack
+5,Titanic,1997,Kate,Rose
+5,Titanic,1997,Billy,Caledon
+5,Titanic,1997,Kathy,Molly
+5,Titanic,1997,Frances,Ruth
+5,Titanic,1997,Gloria,Old
+5,Titanic,1997,Bill,Brock
+5,Titanic,1997,Bernard,Captain
+5,Titanic,1997,David,Spicer
+5,Titanic,1997,Victor,Thomas
+6,The Ten Commandments,1956,Charlton,Moses
+6,The Ten Commandments,1956,Yul,Rameses
+6,The Ten Commandments,1956,Anne,Nefretiri
+6,The Ten Commandments,1956,Edward,Dathan
+6,The Ten Commandments,1956,Yvonne,Sephora
+6,The Ten Commandments,1956,Debra,Lilia
+6,The Ten Commandments,1956,John,Joshua
+6,The Ten Commandments,1956,Cedric,Sethi
+6,The Ten Commandments,1956,Nina,Bithiah
+6,The Ten Commandments,1956,Martha,Yochabel
+7,Jaws,1975,Roy,Brody
+7,Jaws,1975,Robert,Quint
+7,Jaws,1975,Richard,Hooper
+7,Jaws,1975,Lorraine,Ellen
+7,Jaws,1975,Murray,Vaughn
+7,Jaws,1975,Carl,Meadows
+7,Jaws,1975,Jeffrey,Hendricks
+7,Jaws,1975,Susan,Chrissie
+7,Jaws,1975,Jonathan,Cassidy
+7,Jaws,1975,Ted,Estuary
+8,Doctor Zhivago,1965,Omar,Yuri
+8,Doctor Zhivago,1965,Julie,Lara
+8,Doctor Zhivago,1965,Geraldine,Tonya
+8,Doctor Zhivago,1965,Rod,Komarovsky
+8,Doctor Zhivago,1965,Alec,Yevgraf
+8,Doctor Zhivago,1965,Tom,Pasha
+8,Doctor Zhivago,1965,Siobhan,Anna
+8,Doctor Zhivago,1965,Ralph,Alexander
+8,Doctor Zhivago,1965,Rita,The
+8,Doctor Zhivago,1965,Jeffrey,Sasha
+9,The Exorcist,1973,Ellen,Chris
+9,The Exorcist,1973,Max,Father
+9,The Exorcist,1973,Lee,Lt.
+9,The Exorcist,1973,Kitty,Sharon
+9,The Exorcist,1973,Jack,Burke
+9,The Exorcist,1973,Jason,Father
+9,The Exorcist,1973,Linda,Regan
+9,The Exorcist,1973,William,Father
+9,The Exorcist,1973,Barton,Dr.
+9,The Exorcist,1973,Peter,Dr.
+10,Snow White and the Seven Dwarfs,1937,Roy,Doc
+10,Snow White and the Seven Dwarfs,1937,Stuart,Huntsman
+10,Snow White and the Seven Dwarfs,1937,Adriana,Snow
+10,Snow White and the Seven Dwarfs,1937,Hall,Finale
+10,Snow White and the Seven Dwarfs,1937,Eddie,Dopey
+10,Snow White and the Seven Dwarfs,1937,Pinto,Sleepy
+10,Snow White and the Seven Dwarfs,1937,Marion,Birds
+10,Snow White and the Seven Dwarfs,1937,Billy,Sneezy
+10,Snow White and the Seven Dwarfs,1937,Otis,Happy
+10,Snow White and the Seven Dwarfs,1937,Lucille,Queen
+11,Star Wars: The Force Awakens,2015,Harrison,Han
+11,Star Wars: The Force Awakens,2015,Mark,Luke
+11,Star Wars: The Force Awakens,2015,Carrie,Princess
+11,Star Wars: The Force Awakens,2015,Adam,Kylo
+11,Star Wars: The Force Awakens,2015,Daisy,Rey
+11,Star Wars: The Force Awakens,2015,John,Finn
+11,Star Wars: The Force Awakens,2015,Oscar,Poe
+11,Star Wars: The Force Awakens,2015,Lupita,Maz
+11,Star Wars: The Force Awakens,2015,Andy,Supreme
+11,Star Wars: The Force Awakens,2015,Domhnall,General
+12,101 Dalmatians,1961,Glenn,Cruella
+12,101 Dalmatians,1961,Jeff,Roger
+12,101 Dalmatians,1961,Joely,Anita
+12,101 Dalmatians,1961,Joan,Nanny
+12,101 Dalmatians,1961,Hugh,Jasper
+12,101 Dalmatians,1961,Mark,Horace
+12,101 Dalmatians,1961,John,Skinner
+12,101 Dalmatians,1961,Tim,Alonzo
+12,101 Dalmatians,1961,Hugh,Frederick
+12,101 Dalmatians,1961,Zohren,Herbert
+13,Star Wars: Episode V - The Empire Strikes Back,1980,Mark,Luke
+13,Star Wars: Episode V - The Empire Strikes Back,1980,Harrison,Han
+13,Star Wars: Episode V - The Empire Strikes Back,1980,Carrie,Princess
+13,Star Wars: Episode V - The Empire Strikes Back,1980,Billy,Lando
+13,Star Wars: Episode V - The Empire Strikes Back,1980,Anthony,C-3PO
+13,Star Wars: Episode V - The Empire Strikes Back,1980,David,Darth
+13,Star Wars: Episode V - The Empire Strikes Back,1980,Peter,Chewbacca
+13,Star Wars: Episode V - The Empire Strikes Back,1980,Kenny,R2-D2
+13,Star Wars: Episode V - The Empire Strikes Back,1980,Frank,Yoda
+13,Star Wars: Episode V - The Empire Strikes Back,1980,Alec,Ben
+14,Ben-Hur,1959,Jack,Judah
+14,Ben-Hur,1959,Nazanin,Esther
+14,Ben-Hur,1959,Haluk,Simonides
+14,Ben-Hur,1959,Pilou,Pontius
+14,Ben-Hur,1959,Marwan,Druses
+14,Ben-Hur,1959,Rodrigo,Jesus
+14,Ben-Hur,1959,Moises,Gestas
+14,Ben-Hur,1959,Yasen,Jacob
+14,Ben-Hur,1959,David,Marcus
+14,Ben-Hur,1959,Ayelet,Naomi
+15,Avatar,2009,Sam,Jake
+15,Avatar,2009,Zoe,Neytiri
+15,Avatar,2009,Sigourney,Dr.
+15,Avatar,2009,Stephen,Colonel
+15,Avatar,2009,Michelle,Trudy
+15,Avatar,2009,Giovanni,Parker
+15,Avatar,2009,Joel,Norm
+15,Avatar,2009,CCH,Moat
+15,Avatar,2009,Wes,Eytukan
+15,Avatar,2009,Laz,Tsu'tey
+16,Star Wars: Episode VI - Return of the Jedi,1983,Mark,Luke
+16,Star Wars: Episode VI - Return of the Jedi,1983,Harrison,Han
+16,Star Wars: Episode VI - Return of the Jedi,1983,Carrie,Princess
+16,Star Wars: Episode VI - Return of the Jedi,1983,Billy,Lando
+16,Star Wars: Episode VI - Return of the Jedi,1983,Anthony,C-3PO
+16,Star Wars: Episode VI - Return of the Jedi,1983,Peter,Chewbacca
+16,Star Wars: Episode VI - Return of the Jedi,1983,Sebastian,Anakin
+16,Star Wars: Episode VI - Return of the Jedi,1983,Ian,The
+16,Star Wars: Episode VI - Return of the Jedi,1983,Frank,Yoda
+16,Star Wars: Episode VI - Return of the Jedi,1983,James,Darth
+17,Jurassic Park,1993,Sam,Dr.
+17,Jurassic Park,1993,Laura,Dr.
+17,Jurassic Park,1993,Jeff,Dr.
+17,Jurassic Park,1993,Richard,John
+17,Jurassic Park,1993,Bob,Robert
+17,Jurassic Park,1993,Martin,Donald
+17,Jurassic Park,1993,Joseph,Tim
+17,Jurassic Park,1993,Ariana,Lex
+17,Jurassic Park,1993,Samuel,Ray
+17,Jurassic Park,1993,BD,Henry
+18,Star Wars: Episode I - The Phantom Menace,1999,Liam,Qui-Gon
+18,Star Wars: Episode I - The Phantom Menace,1999,Ewan,Obi-Wan
+18,Star Wars: Episode I - The Phantom Menace,1999,Natalie,Queen
+18,Star Wars: Episode I - The Phantom Menace,1999,Jake,Anakin
+18,Star Wars: Episode I - The Phantom Menace,1999,Ian,Senator
+18,Star Wars: Episode I - The Phantom Menace,1999,Pernilla,Shmi
+18,Star Wars: Episode I - The Phantom Menace,1999,Oliver,Sio
+18,Star Wars: Episode I - The Phantom Menace,1999,Hugh,Captain
+18,Star Wars: Episode I - The Phantom Menace,1999,Ahmed,Jar
+18,Star Wars: Episode I - The Phantom Menace,1999,Anthony,C-3PO
+19,The Lion King,1994,Matthew,Adult
+19,The Lion King,1994,Jonathan,Young
+19,The Lion King,1994,James,Mufasa
+19,The Lion King,1994,Jim,Ed
+19,The Lion King,1994,Jeremy,Scar
+19,The Lion King,1994,Moira,Adult
+19,The Lion King,1994,Niketa,Young
+19,The Lion King,1994,Ernie,Pumbaa
+19,The Lion King,1994,Nathan,Timon
+19,The Lion King,1994,Robert,Rafiki
+20,The Sting,1973,Paul,Henry
+20,The Sting,1973,Robert,Johnny
+20,The Sting,1973,Robert,Doyle
+20,The Sting,1973,Charles,Lt.
+20,The Sting,1973,Ray,J.J.
+20,The Sting,1973,Eileen,Billie
+20,The Sting,1973,Harold,Kid
+20,The Sting,1973,John,Eddie
+20,The Sting,1973,Dana,F.B.I.
+20,The Sting,1973,Jack,Erie
+21,Raiders of the Lost Ark,1981,Harrison,Indy
+21,Raiders of the Lost Ark,1981,Karen,Marion
+21,Raiders of the Lost Ark,1981,Paul,Dr.
+21,Raiders of the Lost Ark,1981,Ronald,Major
+21,Raiders of the Lost Ark,1981,John,Sallah
+21,Raiders of the Lost Ark,1981,Denholm,Dr.
+21,Raiders of the Lost Ark,1981,Alfred,Satipo
+21,Raiders of the Lost Ark,1981,Wolf,Colonel
+21,Raiders of the Lost Ark,1981,Anthony,Gobler
+21,Raiders of the Lost Ark,1981,Vic,Barranca
+22,The Graduate,1967,Anne,Mrs.
+22,The Graduate,1967,Dustin,Ben
+22,The Graduate,1967,Katharine,Elaine
+22,The Graduate,1967,William,Mr.
+22,The Graduate,1967,Murray,Mr.
+22,The Graduate,1967,Elizabeth,Mrs.
+22,The Graduate,1967,Buck,Room
+22,The Graduate,1967,Brian,Carl
+22,The Graduate,1967,Walter,Mr.
+22,The Graduate,1967,Norman,Mr.
+23,Fantasia,1940,Leopold,Himself
+23,Fantasia,1940,Deems,Himself
+23,Fantasia,1940,Corey,Narrator:
+23,Fantasia,1940,Walt,Mickey
+23,Fantasia,1940,James,Percussionist
+23,Fantasia,1940,Julietta,Soloist
+23,Fantasia,1940,Paul,Violinist
+24,Jurassic World,2015,Chris,Owen
+24,Jurassic World,2015,Bryce,Claire
+24,Jurassic World,2015,Irrfan,Masrani
+24,Jurassic World,2015,Vincent,Hoskins
+24,Jurassic World,2015,Ty,Gray
+24,Jurassic World,2015,Nick,Zach
+24,Jurassic World,2015,Jake,Lowery
+24,Jurassic World,2015,Omar,Barry
+24,Jurassic World,2015,BD,Dr.
+24,Jurassic World,2015,Judy,Karen
+25,The Godfather,1972,Marlon,Don
+25,The Godfather,1972,Al,Michael
+25,The Godfather,1972,James,Sonny
+25,The Godfather,1972,Richard,Clemenza
+25,The Godfather,1972,Robert,Tom
+25,The Godfather,1972,Sterling,Capt.
+25,The Godfather,1972,John,Jack
+25,The Godfather,1972,Richard,Barzini
+25,The Godfather,1972,Al,Sollozzo
+25,The Godfather,1972,Diane,Kay
+26,Forrest Gump,1994,Tom,Forrest
+26,Forrest Gump,1994,Rebecca,Nurse
+26,Forrest Gump,1994,Sally,Mrs.
+26,Forrest Gump,1994,Michael,Young
+26,Forrest Gump,1994,Harold,Doctor
+26,Forrest Gump,1994,George,Barber
+26,Forrest Gump,1994,Bob,Crony
+26,Forrest Gump,1994,John,Crony
+26,Forrest Gump,1994,Sam,Principal
+26,Forrest Gump,1994,Margo,Louise
+27,Mary Poppins,1964,Julie,Mary
+27,Mary Poppins,1964,Dick,Bert
+27,Mary Poppins,1964,David,Mr.
+27,Mary Poppins,1964,Glynis,Mrs.
+27,Mary Poppins,1964,Hermione,The
+27,Mary Poppins,1964,Reta,The
+27,Mary Poppins,1964,Karen,Jane
+27,Mary Poppins,1964,Matthew,Michael
+27,Mary Poppins,1964,Elsa,Katie
+27,Mary Poppins,1964,Arthur,The
+28,Grease,1978,John,Danny
+28,Grease,1978,Olivia,Sandy
+28,Grease,1978,Stockard,Rizzo
+28,Grease,1978,Jeff,Kenickie
+28,Grease,1978,Barry,Doody
+28,Grease,1978,Michael,Sonny
+28,Grease,1978,Kelly,Putzie
+28,Grease,1978,Didi,Frenchy
+28,Grease,1978,Jamie,Jan
+28,Grease,1978,Dinah,Marty
+29,Marvel's The Avengers,2012,Robert,Tony
+29,Marvel's The Avengers,2012,Chris,Steve
+29,Marvel's The Avengers,2012,Mark,Bruce
+29,Marvel's The Avengers,2012,Chris,Thor
+29,Marvel's The Avengers,2012,Scarlett,Natasha
+29,Marvel's The Avengers,2012,Jeremy,Clint
+29,Marvel's The Avengers,2012,Tom,Loki
+29,Marvel's The Avengers,2012,Clark,Agent
+29,Marvel's The Avengers,2012,Cobie,Agent
+29,Marvel's The Avengers,2012,Stellan,Selvig
+30,Thunderball,1965,Sean,James
+30,Thunderball,1965,Claudine,Domino
+30,Thunderball,1965,Adolfo,Largo
+30,Thunderball,1965,Luciana,Fiona
+30,Thunderball,1965,Rik,Felix
+30,Thunderball,1965,Guy,Count
+30,Thunderball,1965,Molly,Patricia
+30,Thunderball,1965,Martine,Paula
+30,Thunderball,1965,Bernard,'M'
+30,Thunderball,1965,Desmond,'Q'
+31,The Dark Knight,2008,Christian,Bruce
+31,The Dark Knight,2008,Heath,Joker
+31,The Dark Knight,2008,Aaron,Harvey
+31,The Dark Knight,2008,Michael,Alfred
+31,The Dark Knight,2008,Maggie,Rachel
+31,The Dark Knight,2008,Gary,Gordon
+31,The Dark Knight,2008,Morgan,Lucius
+31,The Dark Knight,2008,Monique,Ramirez
+31,The Dark Knight,2008,Ron,Wuertz
+31,The Dark Knight,2008,Cillian,Scarecrow
+32,The Jungle Book,1967,Neel,Mowgli
+32,The Jungle Book,1967,Bill,Baloo
+32,The Jungle Book,1967,Ben,Bagheera
+32,The Jungle Book,1967,Idris,Shere
+32,The Jungle Book,1967,Lupita,Raksha
+32,The Jungle Book,1967,Scarlett,Kaa
+32,The Jungle Book,1967,Giancarlo,Akela
+32,The Jungle Book,1967,Christopher,King
+32,The Jungle Book,1967,Garry,Ikki
+32,The Jungle Book,1967,Brighton,Gray
+33,Sleeping Beauty,1959,Bridgette,Dinner
+33,Sleeping Beauty,1959,Rachael,Clara
+33,Sleeping Beauty,1959,Hannah,Dinner
+33,Sleeping Beauty,1959,Emily,Lucy
+33,Sleeping Beauty,1959,Alan,Dinner
+33,Sleeping Beauty,1959,Peter,Man
+33,Sleeping Beauty,1959,Les,Driver
+33,Sleeping Beauty,1959,Benita,Dinner
+33,Sleeping Beauty,1959,Michael,Cook
+33,Sleeping Beauty,1959,Eden,Thomas
+34,Ghostbusters,1984,Chris,Kevin
+34,Ghostbusters,1984,Melissa,Abby
+34,Ghostbusters,1984,Kristen,Erin
+34,Ghostbusters,1984,Bill,
+34,Ghostbusters,1984,Sigourney,
+34,Ghostbusters,1984,Kate,Jillian
+34,Ghostbusters,1984,Charles,
+34,Ghostbusters,1984,Elizabeth,Scientist
+34,Ghostbusters,1984,Michael,Hawkins
+34,Ghostbusters,1984,Andy,NYC
+35,Shrek 2,2004,Mike,Shrek
+35,Shrek 2,2004,Eddie,Donkey
+35,Shrek 2,2004,Cameron,Princess
+35,Shrek 2,2004,Julie,Queen
+35,Shrek 2,2004,Antonio,Puss
+35,Shrek 2,2004,John,King
+35,Shrek 2,2004,Rupert,Prince
+35,Shrek 2,2004,Jennifer,Fairy
+35,Shrek 2,2004,Aron,Wolf
+35,Shrek 2,2004,Kelly,Page
+36,Butch Cassidy and the Sundance Kid,1969,Paul,Butch
+36,Butch Cassidy and the Sundance Kid,1969,Robert,The
+36,Butch Cassidy and the Sundance Kid,1969,Katharine,Etta
+36,Butch Cassidy and the Sundance Kid,1969,Strother,Percy
+36,Butch Cassidy and the Sundance Kid,1969,Henry,Bike
+36,Butch Cassidy and the Sundance Kid,1969,Jeff,Sheriff
+36,Butch Cassidy and the Sundance Kid,1969,George,Woodcock
+36,Butch Cassidy and the Sundance Kid,1969,Cloris,Agnes
+36,Butch Cassidy and the Sundance Kid,1969,Ted,Harvey
+36,Butch Cassidy and the Sundance Kid,1969,Kenneth,Marshal
+37,Love Story,1970,Ali,Jenny
+37,Love Story,1970,Ryan,Oliver
+37,Love Story,1970,John,Phil
+37,Love Story,1970,Ray,Oliver
+37,Love Story,1970,Russell,Dean
+37,Love Story,1970,Katharine,Mrs.
+37,Love Story,1970,Sydney,Dr.
+37,Love Story,1970,Robert,Dr.
+37,Love Story,1970,Walker,Ray
+37,Love Story,1970,Tommy,Hank
+38,Spider-Man,2002,Tobey,Spider-Man
+38,Spider-Man,2002,Willem,Green
+38,Spider-Man,2002,Kirsten,Mary
+38,Spider-Man,2002,James,Harry
+38,Spider-Man,2002,Cliff,Ben
+38,Spider-Man,2002,Rosemary,May
+38,Spider-Man,2002,J.K.,J.
+38,Spider-Man,2002,Joe,Flash
+38,Spider-Man,2002,Gerry,Maximilian
+38,Spider-Man,2002,Bill,Joseph
+39,Independence Day,1996,Will,Captain
+39,Independence Day,1996,Bill,President
+39,Independence Day,1996,Jeff,David
+39,Independence Day,1996,Mary,First
+39,Independence Day,1996,Judd,Julius
+39,Independence Day,1996,Robert,General
+39,Independence Day,1996,Randy,Russell
+39,Independence Day,1996,Margaret,Constance
+39,Independence Day,1996,Vivica,Jasmine
+39,Independence Day,1996,James,Albert
+40,Home Alone,1990,Macaulay,Kevin
+40,Home Alone,1990,Joe,Harry
+40,Home Alone,1990,Daniel,Marv
+40,Home Alone,1990,John,Peter
+40,Home Alone,1990,Roberts,Old
+40,Home Alone,1990,Catherine,Kate
+40,Home Alone,1990,Angela,Linnie
+40,Home Alone,1990,Devin,Buzz
+40,Home Alone,1990,Gerry,Uncle
+40,Home Alone,1990,Hillary,Megan
+41,Pinocchio,1940,Mel,Figaro
+41,Pinocchio,1940,Don,Carnival
+41,Pinocchio,1940,Walter,J.
+41,Pinocchio,1940,Marion,Birds
+41,Pinocchio,1940,Frankie,Lampwick
+41,Pinocchio,1940,Cliff,Jiminy
+41,Pinocchio,1940,Dickie,Pinocchio
+41,Pinocchio,1940,Charles,Stromboli
+41,Pinocchio,1940,Clarence,Roughhouse
+41,Pinocchio,1940,Patricia,Marionettes
+42,Cleopatra,1963,Elizabeth,Cleopatra
+42,Cleopatra,1963,Richard,Mark
+42,Cleopatra,1963,Rex,Julius
+42,Cleopatra,1963,Pamela,High
+42,Cleopatra,1963,George,Flavius
+42,Cleopatra,1963,Hume,Sosigenes
+42,Cleopatra,1963,Cesare,Apollodorus
+42,Cleopatra,1963,Kenneth,Brutus
+42,Cleopatra,1963,Andrew,Agrippa
+42,Cleopatra,1963,Martin,Rufio
+43,Beverly Hills Cop,1984,Eddie,Axel
+43,Beverly Hills Cop,1984,Judge,Det.
+43,Beverly Hills Cop,1984,John,Sgt.
+43,Beverly Hills Cop,1984,Lisa,Jenny
+43,Beverly Hills Cop,1984,Ronny,Lt.
+43,Beverly Hills Cop,1984,Steven,Victor
+43,Beverly Hills Cop,1984,James,Mikey
+43,Beverly Hills Cop,1984,Jonathan,Zack
+43,Beverly Hills Cop,1984,Stephen,Chief
+43,Beverly Hills Cop,1984,Gilbert,Inspector
+44,Goldfinger,1964,Sean,James
+44,Goldfinger,1964,Honor,Pussy
+44,Goldfinger,1964,Gert,Goldfinger
+44,Goldfinger,1964,Shirley,Jill
+44,Goldfinger,1964,Tania,Tilly
+44,Goldfinger,1964,Harold,Oddjob
+44,Goldfinger,1964,Bernard,'M'
+44,Goldfinger,1964,Martin,Solo
+44,Goldfinger,1964,Cec,Felix
+44,Goldfinger,1964,Austin,Simmons
+45,Airport,1970,Burt,Mel
+45,Airport,1970,Dean,Vernon
+45,Airport,1970,Jean,Tanya
+45,Airport,1970,Jacqueline,Gwen
+45,Airport,1970,George,Patroni
+45,Airport,1970,Helen,Ada
+45,Airport,1970,Van,D.O.
+45,Airport,1970,Maureen,Inez
+45,Airport,1970,Barry,Anson
+45,Airport,1970,Dana,Cindy
+46,American Graffiti,1973,Richard,Curt
+46,American Graffiti,1973,Ron,Steve
+46,American Graffiti,1973,Paul,John
+46,American Graffiti,1973,Charles,Terry
+46,American Graffiti,1973,Cindy,Laurie
+46,American Graffiti,1973,Candy,Debbie
+46,American Graffiti,1973,Mackenzie,Carol
+46,American Graffiti,1973,Wolfman,Disc
+46,American Graffiti,1973,Bo,Joe
+46,American Graffiti,1973,Manuel,Carlos
+47,The Robe,1953,Richard,Marcellus
+47,The Robe,1953,Jean,Diana
+47,The Robe,1953,Victor,Demetrius
+47,The Robe,1953,Michael,Peter
+47,The Robe,1953,Jay,Caligula
+47,The Robe,1953,Dean,Justus
+47,The Robe,1953,Torin,Sen.
+47,The Robe,1953,Richard,Pontius
+47,The Robe,1953,Betta,Miriam
+47,The Robe,1953,Jeff,Paulus
+48,Pirates of the Caribbean: Dead Man's Chest,2006,Johnny,Jack
+48,Pirates of the Caribbean: Dead Man's Chest,2006,Orlando,Will
+48,Pirates of the Caribbean: Dead Man's Chest,2006,Keira,Elizabeth
+48,Pirates of the Caribbean: Dead Man's Chest,2006,Jack,Norrington
+48,Pirates of the Caribbean: Dead Man's Chest,2006,Bill,Davy
+48,Pirates of the Caribbean: Dead Man's Chest,2006,Jonathan,Governor
+48,Pirates of the Caribbean: Dead Man's Chest,2006,Lee,Pintel
+48,Pirates of the Caribbean: Dead Man's Chest,2006,Mackenzie,Ragetti
+48,Pirates of the Caribbean: Dead Man's Chest,2006,Kevin,Gibbs
+48,Pirates of the Caribbean: Dead Man's Chest,2006,David,Cotton
+49,Around the World in 80 Days,1956,Jackie,Passepartout
+49,Around the World in 80 Days,1956,Steve,Phileas
+49,Around the World in 80 Days,1956,Cí©cile,Monique
+49,Around the World in 80 Days,1956,Robert,Jean
+49,Around the World in 80 Days,1956,Jim,Lord
+49,Around the World in 80 Days,1956,Ian,Colonel
+49,Around the World in 80 Days,1956,David,Lord
+49,Around the World in 80 Days,1956,Roger,Lord
+49,Around the World in 80 Days,1956,Adam,Mr.
+49,Around the World in 80 Days,1956,Howard,Academy
+50,Bambi,1942,Hardie,Adolescent
+50,Bambi,1942,Stan,Young
+50,Bambi,1942,Bobette,
+50,Bambi,1942,Peter,Young
+50,Bambi,1942,Thelma,Girl
+50,Bambi,1942,Janet,
+50,Bambi,1942,Jeanne,
+50,Bambi,1942,Dolyn,
+50,Bambi,1942,Marion,Birds
+50,Bambi,1942,Tim,Adult
+51,Blazing Saddles,1974,Cleavon,Bart
+51,Blazing Saddles,1974,Gene,Jim
+51,Blazing Saddles,1974,Slim,Taggart
+51,Blazing Saddles,1974,Harvey,Hedley
+51,Blazing Saddles,1974,Madeline,Lili
+51,Blazing Saddles,1974,Mel,Governor
+51,Blazing Saddles,1974,Burton,Lyle
+51,Blazing Saddles,1974,Alex,Mongo
+51,Blazing Saddles,1974,David,Olson
+51,Blazing Saddles,1974,Liam,Rev.
+52,Batman,1989,Michael,Batman
+52,Batman,1989,Jack,Joker
+52,Batman,1989,Kim,Vicki
+52,Batman,1989,Robert,Alexander
+52,Batman,1989,Pat,Commissioner
+52,Batman,1989,Billy,Harvey
+52,Batman,1989,Michael,Alfred
+52,Batman,1989,Jack,Carl
+52,Batman,1989,Jerry,Alicia
+52,Batman,1989,Tracey,Bob
+53,Cinderella,1950,Cate,Stepmother
+53,Cinderella,1950,Lily,Cinderella
+53,Cinderella,1950,Richard,Prince
+53,Cinderella,1950,Helena,Fairy
+53,Cinderella,1950,Nonso,Captain
+53,Cinderella,1950,Stellan,Grand
+53,Cinderella,1950,Sophie,Drisella
+53,Cinderella,1950,Holliday,Anastasia
+53,Cinderella,1950,Derek,King
+53,Cinderella,1950,Ben,Ella's
+54,The Bells of St. Mary's,1945,Bing,Father
+54,The Bells of St. Mary's,1945,Ingrid,Sister
+54,The Bells of St. Mary's,1945,Henry,Horace
+54,The Bells of St. Mary's,1945,William,Joe
+54,The Bells of St. Mary's,1945,Ruth,Sister
+54,The Bells of St. Mary's,1945,Joan,Patricia
+54,The Bells of St. Mary's,1945,Martha,Mary
+54,The Bells of St. Mary's,1945,Rhys,Dr.
+54,The Bells of St. Mary's,1945,Richard,Eddie
+54,The Bells of St. Mary's,1945,Una,Mrs.
+55,The Lord of the Rings: The Return of the King,2003,Noel,Everard
+55,The Lord of the Rings: The Return of the King,2003,Ali,Elanor
+55,The Lord of the Rings: The Return of the King,2003,Sean,Sam
+55,The Lord of the Rings: The Return of the King,2003,David,Gondorian
+55,The Lord of the Rings: The Return of the King,2003,John,Madril
+55,The Lord of the Rings: The Return of the King,2003,Sean,Boromir
+55,The Lord of the Rings: The Return of the King,2003,Cate,Galadriel
+55,The Lord of the Rings: The Return of the King,2003,Orlando,Legolas
+55,The Lord of the Rings: The Return of the King,2003,Billy,Pippin
+55,The Lord of the Rings: The Return of the King,2003,Sadwyn,Eldarion
+56,Finding Nemo,2003,Albert,Marlin
+56,Finding Nemo,2003,Ellen,Dory
+56,Finding Nemo,2003,Alexander,Nemo
+56,Finding Nemo,2003,Willem,Gill
+56,Finding Nemo,2003,Brad,Bloat
+56,Finding Nemo,2003,Allison,Peach
+56,Finding Nemo,2003,Austin,Gurgle
+56,Finding Nemo,2003,Stephen,Bubbles
+56,Finding Nemo,2003,Vicki,Deb
+56,Finding Nemo,2003,Joe,Jacques
+57,The Towering Inferno,1974,Steve,Chief
+57,The Towering Inferno,1974,Paul,Doug
+57,The Towering Inferno,1974,William,Jim
+57,The Towering Inferno,1974,Faye,Susan
+57,The Towering Inferno,1974,Fred,Harlee
+57,The Towering Inferno,1974,Susan,Patty
+57,The Towering Inferno,1974,Richard,Simmons
+57,The Towering Inferno,1974,Jennifer,Lisolette
+57,The Towering Inferno,1974,O.J.,Jernigan
+57,The Towering Inferno,1974,Robert,Senator
+58,Spider-Man 2,2004,Tobey,Spider-Man
+58,Spider-Man 2,2004,Kirsten,Mary
+58,Spider-Man 2,2004,James,Harry
+58,Spider-Man 2,2004,Alfred,Doc
+58,Spider-Man 2,2004,Rosemary,May
+58,Spider-Man 2,2004,J.K.,J.
+58,Spider-Man 2,2004,Donna,Rosalie
+58,Spider-Man 2,2004,Daniel,John
+58,Spider-Man 2,2004,Dylan,Dr.
+58,Spider-Man 2,2004,Bill,Joseph
+59,My Fair Lady,1964,Audrey,Eliza
+59,My Fair Lady,1964,Rex,Professor
+59,My Fair Lady,1964,Stanley,Alfred
+59,My Fair Lady,1964,Wilfrid,Colonel
+59,My Fair Lady,1964,Gladys,Mrs.
+59,My Fair Lady,1964,Jeremy,Freddy
+59,My Fair Lady,1964,Theodore,Zoltan
+59,My Fair Lady,1964,Mona,Mrs.
+59,My Fair Lady,1964,Isobel,Mrs.
+59,My Fair Lady,1964,John,Butler
+60,The Greatest Show on Earth,1952,Betty,Holly
+60,The Greatest Show on Earth,1952,Cornel,The
+60,The Greatest Show on Earth,1952,Charlton,Brad
+60,The Greatest Show on Earth,1952,Dorothy,Phyllis
+60,The Greatest Show on Earth,1952,Gloria,Angel
+60,The Greatest Show on Earth,1952,Henry,FBI
+60,The Greatest Show on Earth,1952,Lyle,Klaus
+60,The Greatest Show on Earth,1952,Lawrence,Mr.
+60,The Greatest Show on Earth,1952,Emmett,Emmett
+60,The Greatest Show on Earth,1952,Cucciola,Cucciola
+61,National Lampoon's Animal House,1978,Tom,Larry
+61,National Lampoon's Animal House,1978,Stephen,Kent
+61,National Lampoon's Animal House,1978,Mark,Doug
+61,National Lampoon's Animal House,1978,Mary,Mandy
+61,National Lampoon's Animal House,1978,Martha,Babs
+61,National Lampoon's Animal House,1978,James,Greg
+61,National Lampoon's Animal House,1978,Kevin,Chip
+61,National Lampoon's Animal House,1978,John,John
+61,National Lampoon's Animal House,1978,Douglas,Stork
+61,National Lampoon's Animal House,1978,Chris,Hardbar
+62,The Passion of the Christ,2004,Jim,Jesus
+62,The Passion of the Christ,2004,Maia,Mary
+62,The Passion of the Christ,2004,Christo,John
+62,The Passion of the Christ,2004,Francesco,Peter
+62,The Passion of the Christ,2004,Monica,Magdalen
+62,The Passion of the Christ,2004,Mattia,Caiphas
+62,The Passion of the Christ,2004,Toni,Annas
+62,The Passion of the Christ,2004,Luca,Judas
+62,The Passion of the Christ,2004,Hristo,Pontius
+62,The Passion of the Christ,2004,Claudia,Claudia
+63,Star Wars: Episode III - Revenge of the Sith,2005,Ewan,Obi-Wan
+63,Star Wars: Episode III - Revenge of the Sith,2005,Natalie,Padmí©
+63,Star Wars: Episode III - Revenge of the Sith,2005,Hayden,Anakin
+63,Star Wars: Episode III - Revenge of the Sith,2005,Ian,Supreme
+63,Star Wars: Episode III - Revenge of the Sith,2005,Samuel,Mace
+63,Star Wars: Episode III - Revenge of the Sith,2005,Jimmy,Senator
+63,Star Wars: Episode III - Revenge of the Sith,2005,Frank,Yoda
+63,Star Wars: Episode III - Revenge of the Sith,2005,Anthony,C-3PO
+63,Star Wars: Episode III - Revenge of the Sith,2005,Christopher,Count
+63,Star Wars: Episode III - Revenge of the Sith,2005,Keisha,Queen
+64,Back to the Future,1985,Michael,Marty
+64,Back to the Future,1985,Christopher,Dr.
+64,Back to the Future,1985,Lea,Lorraine
+64,Back to the Future,1985,Crispin,George
+64,Back to the Future,1985,Thomas,Biff
+64,Back to the Future,1985,Claudia,Jennifer
+64,Back to the Future,1985,Marc,Dave
+64,Back to the Future,1985,Wendie,Linda
+64,Back to the Future,1985,George,Sam
+64,Back to the Future,1985,Frances,Stella
+65,The Lord of the Rings: The Two Towers,2002,Bruce,Aldor
+65,The Lord of the Rings: The Two Towers,2002,Sean,Sam
+65,The Lord of the Rings: The Two Towers,2002,John,Madril
+65,The Lord of the Rings: The Two Towers,2002,Sala,Man
+65,The Lord of the Rings: The Two Towers,2002,Cate,Galadriel
+65,The Lord of the Rings: The Two Towers,2002,Orlando,Legolas
+65,The Lord of the Rings: The Two Towers,2002,Billy,Pippin
+65,The Lord of the Rings: The Two Towers,2002,Jed,Sharku
+65,The Lord of the Rings: The Two Towers,2002,Sam,Eothain
+65,The Lord of the Rings: The Two Towers,2002,Brad,Wormtongue
+66,The Dark Knight Rises,2012,Christian,Bruce
+66,The Dark Knight Rises,2012,Gary,Commissioner
+66,The Dark Knight Rises,2012,Tom,Bane
+66,The Dark Knight Rises,2012,Joseph,Blake
+66,The Dark Knight Rises,2012,Anne,Selina
+66,The Dark Knight Rises,2012,Marion,Miranda
+66,The Dark Knight Rises,2012,Morgan,Fox
+66,The Dark Knight Rises,2012,Michael,Alfred
+66,The Dark Knight Rises,2012,Matthew,Foley
+66,The Dark Knight Rises,2012,Alon,Dr.
+67,The Sixth Sense,1999,Bruce,Dr.
+67,The Sixth Sense,1999,Haley,Cole
+67,The Sixth Sense,1999,Toni,Lynn
+67,The Sixth Sense,1999,Olivia,Anna
+67,The Sixth Sense,1999,Trevor,Tommy
+67,The Sixth Sense,1999,Donnie,Vincent
+67,The Sixth Sense,1999,Peter,Darren
+67,The Sixth Sense,1999,Jeffrey,Bobby
+67,The Sixth Sense,1999,Bruce,Stanley
+67,The Sixth Sense,1999,Glenn,Sean
+68,Superman,1978,Marlon,Jor-El
+68,Superman,1978,Gene,Lex
+68,Superman,1978,Christopher,Superman
+68,Superman,1978,Ned,Otis
+68,Superman,1978,Jackie,Perry
+68,Superman,1978,Glenn,Pa
+68,Superman,1978,Trevor,1st
+68,Superman,1978,Margot,Lois
+68,Superman,1978,Jack,Non
+68,Superman,1978,Valerie,Eve
+69,Tootsie,1982,Dustin,Michael
+69,Tootsie,1982,Jessica,Julie
+69,Tootsie,1982,Teri,Sandy
+69,Tootsie,1982,Dabney,Ron
+69,Tootsie,1982,Charles,Les
+69,Tootsie,1982,Bill,Jeff
+69,Tootsie,1982,Sydney,George
+69,Tootsie,1982,George,John
+69,Tootsie,1982,Geena,April
+69,Tootsie,1982,Doris,Rita
+70,Smokey and the Bandit,1977,Burt,Bandit
+70,Smokey and the Bandit,1977,Sally,Carrie
+70,Smokey and the Bandit,1977,Jerry,Cledus
+70,Smokey and the Bandit,1977,Mike,Junior
+70,Smokey and the Bandit,1977,Paul,Little
+70,Smokey and the Bandit,1977,Pat,Big
+70,Smokey and the Bandit,1977,Alfie,Patrolman
+70,Smokey and the Bandit,1977,George,Branford
+70,Smokey and the Bandit,1977,Macon,Mr.
+70,Smokey and the Bandit,1977,Linda,Waynette
+71,West Side Story,1961,Natalie,Maria
+71,West Side Story,1961,Richard,Tony
+71,West Side Story,1961,Russ,Riff
+71,West Side Story,1961,Rita,Anita
+71,West Side Story,1961,George,Bernardo
+71,West Side Story,1961,Simon,Schrank
+71,West Side Story,1961,Ned,Doc
+71,West Side Story,1961,William,Krupke
+71,West Side Story,1961,Tucker,Ice
+71,West Side Story,1961,Tony,Action
+72,Harry Potter and the Sorcerer's Stone,2001,Richard,Professor
+72,Harry Potter and the Sorcerer's Stone,2001,Maggie,Professor
+72,Harry Potter and the Sorcerer's Stone,2001,Robbie,Rubeus
+72,Harry Potter and the Sorcerer's Stone,2001,Saunders,Baby
+72,Harry Potter and the Sorcerer's Stone,2001,Daniel,Harry
+72,Harry Potter and the Sorcerer's Stone,2001,Fiona,Aunt
+72,Harry Potter and the Sorcerer's Stone,2001,Harry,Dudley
+72,Harry Potter and the Sorcerer's Stone,2001,Richard,Uncle
+72,Harry Potter and the Sorcerer's Stone,2001,Derek,Tom
+72,Harry Potter and the Sorcerer's Stone,2001,Ian,Professor
+73,Lady and the Tramp,1955,Peggy,Darling
+73,Lady and the Tramp,1955,Larry,Tramp
+73,Lady and the Tramp,1955,Bill,Trusty
+73,Lady and the Tramp,1955,Verna,Aunt
+73,Lady and the Tramp,1955,George,Tony
+73,Lady and the Tramp,1955,Stan,Beaver
+73,Lady and the Tramp,1955,Lee,Jim
+73,Lady and the Tramp,1955,Barbara,Lady
+73,Lady and the Tramp,1955,Bill,Jock
+73,Lady and the Tramp,1955,Dal,Toughy
+74,Close Encounters of the Third Kind,1977,Richard,Roy
+74,Close Encounters of the Third Kind,1977,Franí_ois,Claude
+74,Close Encounters of the Third Kind,1977,Teri,Ronnie
+74,Close Encounters of the Third Kind,1977,Melinda,Jillian
+74,Close Encounters of the Third Kind,1977,Bob,David
+74,Close Encounters of the Third Kind,1977,J.,Project
+74,Close Encounters of the Third Kind,1977,Warren,Wild
+74,Close Encounters of the Third Kind,1977,Roberts,Farmer
+74,Close Encounters of the Third Kind,1977,Philip,Jean
+74,Close Encounters of the Third Kind,1977,Cary,Barry
+75,Lawrence of Arabia,1962,Peter,T.E.
+75,Lawrence of Arabia,1962,Alec,Prince
+75,Lawrence of Arabia,1962,Anthony,Auda
+75,Lawrence of Arabia,1962,Jack,General
+75,Lawrence of Arabia,1962,Omar,Sherif
+75,Lawrence of Arabia,1962,Josí©,Turkish
+75,Lawrence of Arabia,1962,Anthony,Colonel
+75,Lawrence of Arabia,1962,Claude,Mr.
+75,Lawrence of Arabia,1962,Arthur,Jackson
+75,Lawrence of Arabia,1962,Donald,General
+76,The Rocky Horror Picture Show,1975,Tim,Dr.
+76,The Rocky Horror Picture Show,1975,Susan,Janet
+76,The Rocky Horror Picture Show,1975,Barry,Brad
+76,The Rocky Horror Picture Show,1975,Richard,Riff
+76,The Rocky Horror Picture Show,1975,Patricia,Magenta
+76,The Rocky Horror Picture Show,1975,Nell,Columbia
+76,The Rocky Horror Picture Show,1975,Jonathan,Dr.
+76,The Rocky Horror Picture Show,1975,Peter,Rocky
+76,The Rocky Horror Picture Show,1975,Meat,Eddie
+76,The Rocky Horror Picture Show,1975,Charles,The
+77,Rocky,1976,Sylvester,Rocky
+77,Rocky,1976,Talia,Adrian
+77,Rocky,1976,Burt,Paulie
+77,Rocky,1976,Carl,Apollo
+77,Rocky,1976,Burgess,Mickey
+77,Rocky,1976,Thayer,Jergens
+77,Rocky,1976,Joe,Gazzo
+77,Rocky,1976,Jimmy,Mike
+77,Rocky,1976,Bill,Fight
+77,Rocky,1976,Al,Cut
+78,The Best Years of Our Lives,1946,Myrna,Milly
+78,The Best Years of Our Lives,1946,Fredric,Al
+78,The Best Years of Our Lives,1946,Dana,Fred
+78,The Best Years of Our Lives,1946,Teresa,Peggy
+78,The Best Years of Our Lives,1946,Virginia,Marie
+78,The Best Years of Our Lives,1946,Cathy,Wilma
+78,The Best Years of Our Lives,1946,Hoagy,Butch
+78,The Best Years of Our Lives,1946,Harold,Homer
+78,The Best Years of Our Lives,1946,Gladys,Hortense
+78,The Best Years of Our Lives,1946,Roman,Pat
+79,The Poseidon Adventure,1972,Josh,Dylan
+79,The Poseidon Adventure,1972,Kurt,Robert
+79,The Poseidon Adventure,1972,Jacinda,Maggie
+79,The Poseidon Adventure,1972,Richard,Richard
+79,The Poseidon Adventure,1972,Emmy,Jennifer
+79,The Poseidon Adventure,1972,Mí_a,Elena
+79,The Poseidon Adventure,1972,Mike,Christian
+79,The Poseidon Adventure,1972,Kevin,Lucky
+79,The Poseidon Adventure,1972,Freddy,Marco
+79,The Poseidon Adventure,1972,Jimmy,Conor
+80,The Lord of the Rings: The Fellowship of the Ring,2001,Alan,Voice
+80,The Lord of the Rings: The Fellowship of the Ring,2001,Noel,Everard
+80,The Lord of the Rings: The Fellowship of the Ring,2001,Sean,Sam
+80,The Lord of the Rings: The Fellowship of the Ring,2001,Sala,Sauron
+80,The Lord of the Rings: The Fellowship of the Ring,2001,Sean,Boromir
+80,The Lord of the Rings: The Fellowship of the Ring,2001,Cate,Galadriel
+80,The Lord of the Rings: The Fellowship of the Ring,2001,Orlando,Legolas
+80,The Lord of the Rings: The Fellowship of the Ring,2001,Billy,Pippin
+80,The Lord of the Rings: The Fellowship of the Ring,2001,Marton,Celeborn
+80,The Lord of the Rings: The Fellowship of the Ring,2001,Megan,Mrs.
+81,Twister,1996,Helen,Dr.
+81,Twister,1996,Bill,Bill
+81,Twister,1996,Cary,Dr.
+81,Twister,1996,Jami,Dr.
+81,Twister,1996,Philip,Dustin
+81,Twister,1996,Lois,Meg
+81,Twister,1996,Alan,Robert
+81,Twister,1996,Sean,Allan
+81,Twister,1996,Scott,Jason
+81,Twister,1996,Todd,Tim
+82,Men in Black,1997,Tommy,Kay
+82,Men in Black,1997,Will,Jay
+82,Men in Black,1997,Linda,Laurel
+82,Men in Black,1997,Vincent,Edgar
+82,Men in Black,1997,Rip,Zed
+82,Men in Black,1997,Tony,Jeebs
+82,Men in Black,1997,Siobhan,Beatrice
+82,Men in Black,1997,Mike,Gentle
+82,Men in Black,1997,Jon,Van
+82,Men in Black,1997,Sergio,Josí©
+83,The Bridge On The River Kwai,1957,William,Shears
+83,The Bridge On The River Kwai,1957,Alec,Colonel
+83,The Bridge On The River Kwai,1957,Jack,Major
+83,The Bridge On The River Kwai,1957,Sessue,Colonel
+83,The Bridge On The River Kwai,1957,James,Major
+83,The Bridge On The River Kwai,1957,Geoffrey,Lieutenant
+83,The Bridge On The River Kwai,1957,Andrí©,Colonel
+83,The Bridge On The River Kwai,1957,Peter,Captain
+83,The Bridge On The River Kwai,1957,John,Major
+83,The Bridge On The River Kwai,1957,Percy,Grogan
+84,Transformers: Revenge of the Fallen,2009,Shia,Sam
+84,Transformers: Revenge of the Fallen,2009,Megan,Mikaela
+84,Transformers: Revenge of the Fallen,2009,Josh,Major
+84,Transformers: Revenge of the Fallen,2009,Tyrese,USAF
+84,Transformers: Revenge of the Fallen,2009,John,Simmons
+84,Transformers: Revenge of the Fallen,2009,Ramon,Leo
+84,Transformers: Revenge of the Fallen,2009,Kevin,Ron
+84,Transformers: Revenge of the Fallen,2009,Julie,Judy
+84,Transformers: Revenge of the Fallen,2009,Isabel,Alice
+84,Transformers: Revenge of the Fallen,2009,John,Galloway
+85,"""It's a Mad, Mad, Mad, Mad World",1963,Spencer,Capt.
+85,"""It's a Mad, Mad, Mad, Mad World",1963,Milton,J.
+85,"""It's a Mad, Mad, Mad, Mad World",1963,Sid,Melville
+85,"""It's a Mad, Mad, Mad, Mad World",1963,Buddy,Benjy
+85,"""It's a Mad, Mad, Mad, Mad World",1963,Ethel,Mrs.
+85,"""It's a Mad, Mad, Mad, Mad World",1963,Mickey,Ding
+85,"""It's a Mad, Mad, Mad, Mad World",1963,Dick,Sylvester
+85,"""It's a Mad, Mad, Mad, Mad World",1963,Phil,Otto
+85,"""It's a Mad, Mad, Mad, Mad World",1963,Terry-Thomas,J.
+85,"""It's a Mad, Mad, Mad, Mad World",1963,Jonathan,Lennie
+86,Swiss Family Robinson,1960,John,Father
+86,Swiss Family Robinson,1960,Dorothy,Mother
+86,Swiss Family Robinson,1960,James,Fritz
+86,Swiss Family Robinson,1960,Janet,Roberta
+86,Swiss Family Robinson,1960,Sessue,Pirate
+86,Swiss Family Robinson,1960,Tommy,Ernst
+86,Swiss Family Robinson,1960,Kevin,Francis
+86,Swiss Family Robinson,1960,Cecil,Captain
+86,Swiss Family Robinson,1960,Andy,Auban
+86,Swiss Family Robinson,1960,Milton,Big
+87,One Flew Over the Cuckoo's Nest,1975,Michael,Ellis
+87,One Flew Over the Cuckoo's Nest,1975,Peter,Col.
+87,One Flew Over the Cuckoo's Nest,1975,Dean,Dr.
+87,One Flew Over the Cuckoo's Nest,1975,Alonzo,Miller
+87,One Flew Over the Cuckoo's Nest,1975,Scatman,Turkle
+87,One Flew Over the Cuckoo's Nest,1975,Mwako,Warren
+87,One Flew Over the Cuckoo's Nest,1975,Danny,Martini
+87,One Flew Over the Cuckoo's Nest,1975,William,Sefelt
+87,One Flew Over the Cuckoo's Nest,1975,Josip,Bancini
+87,One Flew Over the Cuckoo's Nest,1975,Lan,Nurse
+88,M*A*S*H,1970,Alan,Captain
+88,M*A*S*H,1970,Loretta,Major
+88,M*A*S*H,1970,Jamie,Maxwell
+88,M*A*S*H,1970,William,Father
+88,M*A*S*H,1970,Harry,Colonel
+88,M*A*S*H,1970,Mike,Captain
+88,M*A*S*H,1970,Gary,Corporal
+88,M*A*S*H,1970,Kellye,Lieutenant
+88,M*A*S*H,1970,David,Major
+88,M*A*S*H,1970,Larry,Major
+89,Indiana Jones and the Temple of Doom,1984,Harrison,Indiana
+89,Indiana Jones and the Temple of Doom,1984,Kate,Willie
+89,Indiana Jones and the Temple of Doom,1984,Jonathan,Short
+89,Indiana Jones and the Temple of Doom,1984,Amrish,Mola
+89,Indiana Jones and the Temple of Doom,1984,Roshan,Chattar
+89,Indiana Jones and the Temple of Doom,1984,Philip,Captain
+89,Indiana Jones and the Temple of Doom,1984,Roy,Lao
+89,Indiana Jones and the Temple of Doom,1984,David,Wu
+89,Indiana Jones and the Temple of Doom,1984,Ric,Kao
+89,Indiana Jones and the Temple of Doom,1984,Chua,Chen
+90,Avengers: Age of Ultron,2015,Robert,Tony
+90,Avengers: Age of Ultron,2015,Chris,Thor
+90,Avengers: Age of Ultron,2015,Mark,Bruce
+90,Avengers: Age of Ultron,2015,Chris,Steve
+90,Avengers: Age of Ultron,2015,Scarlett,Natasha
+90,Avengers: Age of Ultron,2015,Jeremy,Clint
+90,Avengers: Age of Ultron,2015,James,Ultron
+90,Avengers: Age of Ultron,2015,Samuel,Nick
+90,Avengers: Age of Ultron,2015,Don,James
+90,Avengers: Age of Ultron,2015,Aaron,Pietro
+91,Star Wars: Episode II - Attack of the Clones,2002,Ewan,Obi-Wan
+91,Star Wars: Episode II - Attack of the Clones,2002,Natalie,Padmí©
+91,Star Wars: Episode II - Attack of the Clones,2002,Hayden,Anakin
+91,Star Wars: Episode II - Attack of the Clones,2002,Christopher,Count
+91,Star Wars: Episode II - Attack of the Clones,2002,Samuel,Mace
+91,Star Wars: Episode II - Attack of the Clones,2002,Frank,Yoda
+91,Star Wars: Episode II - Attack of the Clones,2002,Ian,Supreme
+91,Star Wars: Episode II - Attack of the Clones,2002,Pernilla,Shmi
+91,Star Wars: Episode II - Attack of the Clones,2002,Temuera,Jango
+91,Star Wars: Episode II - Attack of the Clones,2002,Jimmy,Senator
+92,Mrs. Doubtfire,1993,Robin,Daniel
+92,Mrs. Doubtfire,1993,Sally,Miranda
+92,Mrs. Doubtfire,1993,Pierce,Stu
+92,Mrs. Doubtfire,1993,Harvey,Frank
+92,Mrs. Doubtfire,1993,Polly,Gloria
+92,Mrs. Doubtfire,1993,Lisa,Lydia
+92,Mrs. Doubtfire,1993,Matthew,Chris
+92,Mrs. Doubtfire,1993,Mara,Natalie
+92,Mrs. Doubtfire,1993,Robert,Mr.
+92,Mrs. Doubtfire,1993,Anne,Mrs.
+93,Aladdin,1992,Scott,Aladdin
+93,Aladdin,1992,Robin,Genie
+93,Aladdin,1992,Linda,Jasmine
+93,Aladdin,1992,Jonathan,Jafar
+93,Aladdin,1992,Frank,Abu
+93,Aladdin,1992,Gilbert,Iago
+93,Aladdin,1992,Douglas,Sultan
+93,Aladdin,1992,Charles,Gazeem
+93,Aladdin,1992,Jack,Additional
+93,Aladdin,1992,Corey,Prince
+94,Toy Story 3,2010,Tom,Woody
+94,Toy Story 3,2010,Tim,Buzz
+94,Toy Story 3,2010,Joan,Jessie
+94,Toy Story 3,2010,Ned,Lotso
+94,Toy Story 3,2010,Don,Mr.
+94,Toy Story 3,2010,Michael,Ken
+94,Toy Story 3,2010,Wallace,Rex
+94,Toy Story 3,2010,John,Hamm
+94,Toy Story 3,2010,Estelle,Mrs.
+94,Toy Story 3,2010,John,Andy
+95,Ghost,1990,Patrick,Sam
+95,Ghost,1990,Demi,Molly
+95,Ghost,1990,Whoopi,Oda
+95,Ghost,1990,Tony,Carl
+95,Ghost,1990,Stanley,Elevator
+95,Ghost,1990,Christopher,Elevator
+95,Ghost,1990,Susan,Susan
+95,Ghost,1990,Martina,Rose
+95,Ghost,1990,Rick,Mover
+95,Ghost,1990,Macka,Mover
+96,The Hunger Games: Catching Fire,2013,Jennifer,Katniss
+96,The Hunger Games: Catching Fire,2013,Liam,Gale
+96,The Hunger Games: Catching Fire,2013,Jack,Marvel
+96,The Hunger Games: Catching Fire,2013,Taylor,Ripper
+96,The Hunger Games: Catching Fire,2013,Sandra,Greasy
+96,The Hunger Games: Catching Fire,2013,Woody,Haymitch
+96,The Hunger Games: Catching Fire,2013,Josh,Peeta
+96,The Hunger Games: Catching Fire,2013,Paula,Katniss'
+96,The Hunger Games: Catching Fire,2013,Willow,Primrose
+96,The Hunger Games: Catching Fire,2013,Donald,President
+97,Duel in the Sun,1946,Jennifer,Pearl
+97,Duel in the Sun,1946,Joseph,Jesse
+97,Duel in the Sun,1946,Gregory,Lewton
+97,Duel in the Sun,1946,Lionel,Sen.
+97,Duel in the Sun,1946,Herbert,Scott
+97,Duel in the Sun,1946,Lillian,Laura
+97,Duel in the Sun,1946,Walter,The
+97,Duel in the Sun,1946,Charles,Sam
+97,Duel in the Sun,1946,Harry,Lem
+97,Duel in the Sun,1946,Joan,Helen
+98,The Hunger Games,2012,Stanley,Caesar
+98,The Hunger Games,2012,Wes,Seneca
+98,The Hunger Games,2012,Jennifer,Katniss
+98,The Hunger Games,2012,Willow,Primrose
+98,The Hunger Games,2012,Liam,Gale
+98,The Hunger Games,2012,Elizabeth,Effie
+98,The Hunger Games,2012,Sandra,Hob
+98,The Hunger Games,2012,Paula,Katniss'
+98,The Hunger Games,2012,Rhoda,Registration
+98,The Hunger Games,2012,Sandino,Propaganda
+99,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Johnny,Jack
+99,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Geoffrey,Barbossa
+99,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Orlando,Will
+99,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Keira,Elizabeth
+99,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Jack,Norrington
+99,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Jonathan,Governor
+99,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Lee,Pintel
+99,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Mackenzie,Ragetti
+99,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Damian,Lt.
+99,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Giles,Murtogg
+100,House of Wax,1953,Elisha,Carly
+100,House of Wax,1953,Chad,Nick
+100,House of Wax,1953,Brian,Bo
+100,House of Wax,1953,Paris,Paige
+100,House of Wax,1953,Jared,Wade
+100,House of Wax,1953,Jon,Dalton
+100,House of Wax,1953,Robert,Blake
+100,House of Wax,1953,Dragicia,Trudy
+100,House of Wax,1953,Thomas,Young
+100,House of Wax,1953,Murray,Dr.
