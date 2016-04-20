@@ -8,10 +8,10 @@
 
 [The Dataset for Presidents](http://www.presidency.ucsb.edu/data/popularity.php)
 
-The Dataset for movies of all time adjusted for inflation: http://www.filmsite.org/boxoffice3.html
+[The Dataset for movies of all time adjusted for inflation](http://www.filmsite.org/boxoffice3.html)
 	 The data was cleaned and integrated with characters and cast information from IMDb http://www.imdb.com/ through IMDbPY package http://imdbpy.sourceforge.net/. 
 
-	 
+[The Dataset for Disney Movies](http://www.imdb.com/list/ls053518863/?start=1&view=compact&sort=listorian:asc&defaults=1)
 	
 # The Questions:
 	1)Does the approval rating of a President influence the rate of babies named after them?
