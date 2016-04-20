@@ -6,6 +6,8 @@ The Dataset(National Level): https://catalog.data.gov/dataset/baby-names-from-so
 
 The Dataset(State Level): https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-data-by-state-and-district-of-
 
+The Dataset for Presidents: http://www.presidency.ucsb.edu/data/popularity.php
+
 # The Questions:
 	1)Does the approval rating of a President influence the rate of babies named after them?
 	2)Does a famous sports player's MVP status influence the popularity of babies named after their MVP recognition?
