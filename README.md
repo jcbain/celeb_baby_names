@@ -27,7 +27,7 @@ Ensure that the `approval_analysis.R` script and the `data/` directory is in the
 #### Movie Characters
 Ensure that `raw_100_films_inflation_adj.csv` is in `/data` when executing `movie_data_carpentry.ipynb`. Please be aware that this is a python 2 notebook since the IMDbPY package only works under Python 2. Make sure IMDbPY has been installed before executing this file. After executing this notebook, `movie_data_final.csv` will be created. This file will be used in `movie_exploration.ipynb` (Python 3) as input.
 
-Disney Characters
+#### Disney Characters
 For the (`Rasha_data_coll.R`) program:Ensure that the (`Disney_Data.csv`) in the E: directory. After executing this program the (`Rasha_Data.csv`) will be created.
 For the (`disney_char.ipynb`), ensure(`Rasha_Data.csv`) and (`StateNames.csv`) in the output folder.
 
